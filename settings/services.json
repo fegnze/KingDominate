@@ -1,0 +1,36 @@
+{
+	"game": {
+		"name": "神途霸业",
+		"appid": "667439755",
+		"cid": "13488"
+	},
+	"configs": [
+		{
+			"appid": "667408995",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		},
+		{
+			"appid": "667439755",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true,
+					"params": {
+						"appid": "667439755",
+						"storeid": "app",
+						"plugin_version": "1.2.3_2.1.1"
+					}
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
